@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.dal\\context\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|solutionrelative:steam-project.dal\\context\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.dal\\context\\steamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|solutionrelative:steam-project.dal\\context\\steamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Context\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Steam-Project.DAL\\Context\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Context\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Steam-Project.DAL\\Context\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T10:22:27.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SteamDbContext.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Context\\SteamDbContext.cs",
               "RelativeDocumentMoniker": "Steam-Project.DAL\\Context\\SteamDbContext.cs",
               "ToolTip": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Context\\SteamDbContext.cs",
               "RelativeToolTip": "Steam-Project.DAL\\Context\\SteamDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T10:04:32.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Core\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Steam-Project.Core\\Entities\\Category.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "Steam-Project.Core\\Entities\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T08:57:21.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T08:57:21.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Core\\Entities\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Steam-Project.Core\\Entities\\Common\\BaseEntity.cs",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "Steam-Project.Core\\Entities\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T08:49:26.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T08:49:26.199Z"
             }
           ]
         }
