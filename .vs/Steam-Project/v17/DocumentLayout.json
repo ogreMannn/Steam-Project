@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E3AFC08B-9D9E-4BAC-9B95-3EC5C5BCA0F8}|Steam-Project.API\\Steam-Project.API.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3AFC08B-9D9E-4BAC-9B95-3EC5C5BCA0F8}|Steam-Project.API\\Steam-Project.API.csproj|solutionrelative:steam-project.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3AFC08B-9D9E-4BAC-9B95-3EC5C5BCA0F8}|Steam-Project.API\\Steam-Project.API.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.api\\steam-project.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3AFC08B-9D9E-4BAC-9B95-3EC5C5BCA0F8}|Steam-Project.API\\Steam-Project.API.csproj|solutionrelative:steam-project.api\\steam-project.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAFB9EC-F0D9-474F-A748-6337297D9A3C}|Steam-Project.Core\\Steam-Project.Core.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAFB9EC-F0D9-474F-A748-6337297D9A3C}|Steam-Project.Core\\Steam-Project.Core.csproj|solutionrelative:steam-project.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3AFC08B-9D9E-4BAC-9B95-3EC5C5BCA0F8}|Steam-Project.API\\Steam-Project.API.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3AFC08B-9D9E-4BAC-9B95-3EC5C5BCA0F8}|Steam-Project.API\\Steam-Project.API.csproj|solutionrelative:steam-project.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.dal\\context\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|solutionrelative:steam-project.dal\\context\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9CAFB9EC-F0D9-474F-A748-6337297D9A3C}|Steam-Project.Core\\Steam-Project.Core.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CAFB9EC-F0D9-474F-A748-6337297D9A3C}|Steam-Project.Core\\Steam-Project.Core.csproj|solutionrelative:steam-project.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CAFB9EC-F0D9-474F-A748-6337297D9A3C}|Steam-Project.Core\\Steam-Project.Core.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CAFB9EC-F0D9-474F-A748-6337297D9A3C}|Steam-Project.Core\\Steam-Project.Core.csproj|solutionrelative:steam-project.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Steam-Project.API",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.API\\Steam-Project.API.csproj",
+              "RelativeDocumentMoniker": "Steam-Project.API\\Steam-Project.API.csproj",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.API\\Steam-Project.API.csproj",
+              "RelativeToolTip": "Steam-Project.API\\Steam-Project.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-14T11:49:05.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.API\\Program.cs",
+              "RelativeDocumentMoniker": "Steam-Project.API\\Program.cs",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.API\\Program.cs",
+              "RelativeToolTip": "Steam-Project.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T11:35:43.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Steam-Project.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.API\\appsettings.json",
+              "RelativeToolTip": "Steam-Project.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-14T11:27:31.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CategoryConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Context\\CategoryConfiguration.cs",
               "RelativeDocumentMoniker": "Steam-Project.DAL\\Context\\CategoryConfiguration.cs",
@@ -43,20 +94,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "SteamDbContext.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Context\\SteamDbContext.cs",
               "RelativeDocumentMoniker": "Steam-Project.DAL\\Context\\SteamDbContext.cs",
               "ToolTip": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Context\\SteamDbContext.cs",
               "RelativeToolTip": "Steam-Project.DAL\\Context\\SteamDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBJwBYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T10:04:32.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Core\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Steam-Project.Core\\Entities\\Category.cs",
@@ -64,11 +115,12 @@
               "RelativeToolTip": "Steam-Project.Core\\Entities\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T08:57:21.756Z"
+              "WhenOpened": "2026-10-14T08:57:21.756Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Core\\Entities\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Steam-Project.Core\\Entities\\Common\\BaseEntity.cs",
@@ -76,7 +128,8 @@
               "RelativeToolTip": "Steam-Project.Core\\Entities\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T08:49:26.199Z"
+              "WhenOpened": "2026-10-14T08:49:26.199Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,12 @@
+C:\Users\mursa\source\repos\Steam-Project\Steam-Project.Core\bin\Debug\net8.0\Steam-Project.Core.deps.json
+C:\Users\mursa\source\repos\Steam-Project\Steam-Project.Core\bin\Debug\net8.0\Steam-Project.Core.dll
+C:\Users\mursa\source\repos\Steam-Project\Steam-Project.Core\bin\Debug\net8.0\Steam-Project.Core.pdb
+C:\Users\mursa\source\repos\Steam-Project\Steam-Project.Core\obj\Debug\net8.0\Steam-Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mursa\source\repos\Steam-Project\Steam-Project.Core\obj\Debug\net8.0\Steam-Project.Core.AssemblyInfoInputs.cache
+C:\Users\mursa\source\repos\Steam-Project\Steam-Project.Core\obj\Debug\net8.0\Steam-Project.Core.AssemblyInfo.cs
+C:\Users\mursa\source\repos\Steam-Project\Steam-Project.Core\obj\Debug\net8.0\Steam-Project.Core.csproj.CoreCompileInputs.cache
+C:\Users\mursa\source\repos\Steam-Project\Steam-Project.Core\obj\Debug\net8.0\Steam-Project.Core.sourcelink.json
+C:\Users\mursa\source\repos\Steam-Project\Steam-Project.Core\obj\Debug\net8.0\Steam-Project.Core.dll
+C:\Users\mursa\source\repos\Steam-Project\Steam-Project.Core\obj\Debug\net8.0\refint\Steam-Project.Core.dll
+C:\Users\mursa\source\repos\Steam-Project\Steam-Project.Core\obj\Debug\net8.0\Steam-Project.Core.pdb
+C:\Users\mursa\source\repos\Steam-Project\Steam-Project.Core\obj\Debug\net8.0\ref\Steam-Project.Core.dll
