@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.Core\\Steam-Project.Core.csproj",
+      "projectUniqueName": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Core\\Steam-Project.Core.csproj",
       "projectName": "Steam-Project.Core",
-      "projectPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.Core\\Steam-Project.Core.csproj",
+      "projectPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Core\\Steam-Project.Core.csproj",
       "packagesPath": "C:\\Users\\mursa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.Core\\obj\\",
+      "outputPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

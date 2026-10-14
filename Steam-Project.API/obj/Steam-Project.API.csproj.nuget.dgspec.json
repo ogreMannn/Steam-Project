@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.API\\Steam-Project.API.csproj": {}
+    "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.API\\Steam-Project.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.API\\Steam-Project.API.csproj": {
+    "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.API\\Steam-Project.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.API\\Steam-Project.API.csproj",
+        "projectUniqueName": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.API\\Steam-Project.API.csproj",
         "projectName": "Steam-Project.API",
-        "projectPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.API\\Steam-Project.API.csproj",
+        "projectPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.API\\Steam-Project.API.csproj",
         "packagesPath": "C:\\Users\\mursa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.API\\obj\\",
+        "outputPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.Business\\Steam-Project.Business.csproj": {
-                "projectPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.Business\\Steam-Project.Business.csproj"
+              "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Business\\Steam-Project.Business.csproj": {
+                "projectPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Business\\Steam-Project.Business.csproj"
               }
             }
           }
@@ -100,14 +100,14 @@
         }
       }
     },
-    "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.Business\\Steam-Project.Business.csproj": {
+    "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Business\\Steam-Project.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.Business\\Steam-Project.Business.csproj",
+        "projectUniqueName": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Business\\Steam-Project.Business.csproj",
         "projectName": "Steam-Project.Business",
-        "projectPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.Business\\Steam-Project.Business.csproj",
+        "projectPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Business\\Steam-Project.Business.csproj",
         "packagesPath": "C:\\Users\\mursa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.Business\\obj\\",
+        "outputPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -128,8 +128,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.DAL\\Steam-Project.DAL.csproj": {
-                "projectPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.DAL\\Steam-Project.DAL.csproj"
+              "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Steam-Project.DAL.csproj": {
+                "projectPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Steam-Project.DAL.csproj"
               }
             }
           }
@@ -183,14 +183,14 @@
         }
       }
     },
-    "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.Core\\Steam-Project.Core.csproj": {
+    "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Core\\Steam-Project.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.Core\\Steam-Project.Core.csproj",
+        "projectUniqueName": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Core\\Steam-Project.Core.csproj",
         "projectName": "Steam-Project.Core",
-        "projectPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.Core\\Steam-Project.Core.csproj",
+        "projectPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Core\\Steam-Project.Core.csproj",
         "packagesPath": "C:\\Users\\mursa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.Core\\obj\\",
+        "outputPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -262,14 +262,14 @@
         }
       }
     },
-    "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.DAL\\Steam-Project.DAL.csproj": {
+    "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Steam-Project.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.DAL\\Steam-Project.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Steam-Project.DAL.csproj",
         "projectName": "Steam-Project.DAL",
-        "projectPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.DAL\\Steam-Project.DAL.csproj",
+        "projectPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Steam-Project.DAL.csproj",
         "packagesPath": "C:\\Users\\mursa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.DAL\\obj\\",
+        "outputPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -290,8 +290,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.Core\\Steam-Project.Core.csproj": {
-                "projectPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.Core\\Steam-Project.Core.csproj"
+              "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Core\\Steam-Project.Core.csproj": {
+                "projectPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Core\\Steam-Project.Core.csproj"
               }
             }
           }
@@ -311,6 +311,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.32, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

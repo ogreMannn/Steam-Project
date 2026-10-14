@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T/25C7Vtsy0=",
+  "dgSpecHash": "KaGcWOw5yEc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mursa\\source\\repos\\Steam-Project4\\Steam-Project.Core\\Steam-Project.Core.csproj",
+  "projectFilePath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Core\\Steam-Project.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mursa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.32\\microsoft.windowsdesktop.app.ref.8.0.32.nupkg.sha512",
     "C:\\Users\\mursa\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.32\\microsoft.netcore.app.ref.8.0.32.nupkg.sha512",
