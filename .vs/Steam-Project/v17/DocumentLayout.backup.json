@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|solutionrelative:steam-project.dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.dal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|solutionrelative:steam-project.dal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|solutionrelative:steam-project.dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.dal\\context\\steamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "Steam-Project.DAL\\Repositories\\Interfaces\\IRepository.cs",
@@ -63,13 +63,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Repositories\\Implementations\\Repository.cs",
               "RelativeDocumentMoniker": "Steam-Project.DAL\\Repositories\\Implementations\\Repository.cs",
               "ToolTip": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Repositories\\Implementations\\Repository.cs",
               "RelativeToolTip": "Steam-Project.DAL\\Repositories\\Implementations\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwB4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T10:59:18.692Z",
               "EditorCaption": ""
@@ -96,8 +96,7 @@
               "RelativeToolTip": "Steam-Project.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T11:35:43.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T11:35:43.554Z"
             },
             {
               "$type": "Document",
@@ -133,8 +132,7 @@
               "RelativeToolTip": "Steam-Project.DAL\\Context\\SteamDbContext.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T10:04:32.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T10:04:32.362Z"
             },
             {
               "$type": "Document",

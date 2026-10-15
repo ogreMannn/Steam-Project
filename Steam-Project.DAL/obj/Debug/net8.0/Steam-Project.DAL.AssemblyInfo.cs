@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Steam-Project.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14fbdae781ec8cf3b0f275dfb127f5404acc768d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33c649727ef38dbb056d5c7127e2731df144c983")]
 [assembly: System.Reflection.AssemblyProductAttribute("Steam-Project.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Steam-Project.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

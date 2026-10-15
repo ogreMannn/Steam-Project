@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|solutionrelative:steam-project.dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.dal\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|solutionrelative:steam-project.dal\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.dal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|solutionrelative:steam-project.dal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|solutionrelative:steam-project.dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.dal\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|solutionrelative:steam-project.dal\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91995D71-D7C5-4CD1-8920-FADE7A64AF0D}|Steam-Project.DAL\\Steam-Project.DAL.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.dal\\context\\steamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +54,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Steam-Project.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeToolTip": "Steam-Project.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:06:10.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Steam-Project.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "Steam-Project.DAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:04:16.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "Steam-Project.DAL\\Repositories\\Interfaces\\IRepository.cs",
@@ -63,20 +97,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Repositories\\Implementations\\Repository.cs",
               "RelativeDocumentMoniker": "Steam-Project.DAL\\Repositories\\Implementations\\Repository.cs",
               "ToolTip": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Repositories\\Implementations\\Repository.cs",
               "RelativeToolTip": "Steam-Project.DAL\\Repositories\\Implementations\\Repository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAiwB4AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwB4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T10:59:18.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Steam-Project.API.csproj",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.API\\Steam-Project.API.csproj",
               "RelativeDocumentMoniker": "Steam-Project.API\\Steam-Project.API.csproj",
@@ -88,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.API\\Program.cs",
               "RelativeDocumentMoniker": "Steam-Project.API\\Program.cs",
@@ -100,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.API\\appsettings.json",
               "RelativeDocumentMoniker": "Steam-Project.API\\appsettings.json",
@@ -112,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CategoryConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Context\\CategoryConfiguration.cs",
               "RelativeDocumentMoniker": "Steam-Project.DAL\\Context\\CategoryConfiguration.cs",
@@ -124,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SteamDbContext.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Context\\SteamDbContext.cs",
               "RelativeDocumentMoniker": "Steam-Project.DAL\\Context\\SteamDbContext.cs",
@@ -136,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Core\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Steam-Project.Core\\Entities\\Category.cs",
@@ -148,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Core\\Entities\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Steam-Project.Core\\Entities\\Common\\BaseEntity.cs",
