@@ -19,4 +19,8 @@
     <ProjectReference Include="..\Steam-Project.Business\Steam-Project.Business.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 </Project>
