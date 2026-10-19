@@ -11,4 +11,8 @@
     <ProjectReference Include="..\Steam-Project.DAL\Steam-Project.DAL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Services\Implementations\" />
+  </ItemGroup>
+
 </Project>
