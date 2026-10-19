@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A23AFA71-2F5D-4381-86DE-6A0768796BA3}|Steam-Project.Business\\Steam-Project.Business.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.business\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23AFA71-2F5D-4381-86DE-6A0768796BA3}|Steam-Project.Business\\Steam-Project.Business.csproj|solutionrelative:steam-project.business\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23AFA71-2F5D-4381-86DE-6A0768796BA3}|Steam-Project.Business\\Steam-Project.Business.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.business\\exceptions\\common\\negativeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23AFA71-2F5D-4381-86DE-6A0768796BA3}|Steam-Project.Business\\Steam-Project.Business.csproj|solutionrelative:steam-project.business\\exceptions\\common\\negativeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23AFA71-2F5D-4381-86DE-6A0768796BA3}|Steam-Project.Business\\Steam-Project.Business.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.business\\dtos\\category\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23AFA71-2F5D-4381-86DE-6A0768796BA3}|Steam-Project.Business\\Steam-Project.Business.csproj|solutionrelative:steam-project.business\\dtos\\category\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A23AFA71-2F5D-4381-86DE-6A0768796BA3}|Steam-Project.Business\\Steam-Project.Business.csproj|c:\\users\\mursa\\source\\repos\\steam-project\\steam-project.business\\dtos\\category\\getallcategoriesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A23AFA71-2F5D-4381-86DE-6A0768796BA3}|Steam-Project.Business\\Steam-Project.Business.csproj|solutionrelative:steam-project.business\\dtos\\category\\getallcategoriesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,11 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Business\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Steam-Project.Business\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Business\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "Steam-Project.Business\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T21:28:06.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Business\\DTOs\\Category\\GetCategoryDto.cs",
+              "RelativeDocumentMoniker": "Steam-Project.Business\\DTOs\\Category\\GetCategoryDto.cs",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Business\\DTOs\\Category\\GetCategoryDto.cs",
+              "RelativeToolTip": "Steam-Project.Business\\DTOs\\Category\\GetCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T21:27:16.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "NegativeIdException.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Business\\Exceptions\\Common\\NegativeIdException.cs",
+              "RelativeDocumentMoniker": "Steam-Project.Business\\Exceptions\\Common\\NegativeIdException.cs",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Business\\Exceptions\\Common\\NegativeIdException.cs",
+              "RelativeToolTip": "Steam-Project.Business\\Exceptions\\Common\\NegativeIdException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T21:20:09.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Business\\Services\\Interfaces\\ICategoryService.cs",
               "RelativeDocumentMoniker": "Steam-Project.Business\\Services\\Interfaces\\ICategoryService.cs",
@@ -35,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "GetAllCategoriesDto.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Business\\DTOs\\Category\\GetAllCategoriesDto.cs",
               "RelativeDocumentMoniker": "Steam-Project.Business\\DTOs\\Category\\GetAllCategoriesDto.cs",
