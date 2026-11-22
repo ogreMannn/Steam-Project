@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Steam_Project.Business;
+using Steam_Project.DAL;
 using Steam_Project.DAL.Context;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +13,7 @@ builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.AddSwaggerGen();
 builder.Services.AddBusinessService();
+builder.Services.AddDALService();
 
 builder.Services.AddDbContext<SteamDbContext>(opt => {
 
