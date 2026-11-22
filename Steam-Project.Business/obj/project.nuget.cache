@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "XolAcsCqWTE=",
+  "dgSpecHash": "xO02J90LG6Q=",
   "success": true,
   "projectFilePath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Business\\Steam-Project.Business.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mursa\\.nuget\\packages\\automapper\\16.2.0\\automapper.16.2.0.nupkg.sha512",
+    "C:\\Users\\mursa\\.nuget\\packages\\automapper\\17.0.0\\automapper.17.0.0.nupkg.sha512",
+    "C:\\Users\\mursa\\.nuget\\packages\\microsoft.bcl.hashcode\\6.0.0\\microsoft.bcl.hashcode.6.0.0.nupkg.sha512",
     "C:\\Users\\mursa\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.32\\microsoft.entityframeworkcore.8.0.32.nupkg.sha512",
     "C:\\Users\\mursa\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.32\\microsoft.entityframeworkcore.abstractions.8.0.32.nupkg.sha512",
     "C:\\Users\\mursa\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.32\\microsoft.entityframeworkcore.analyzers.8.0.32.nupkg.sha512",
@@ -25,9 +26,10 @@
     "C:\\Users\\mursa\\.nuget\\packages\\npgsql\\8.0.6\\npgsql.8.0.6.nupkg.sha512",
     "C:\\Users\\mursa\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.11\\npgsql.entityframeworkcore.postgresql.8.0.11.nupkg.sha512",
     "C:\\Users\\mursa\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0\\system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512",
-    "C:\\Users\\mursa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.32\\microsoft.windowsdesktop.app.ref.8.0.32.nupkg.sha512",
-    "C:\\Users\\mursa\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.32\\microsoft.netcore.app.ref.8.0.32.nupkg.sha512",
-    "C:\\Users\\mursa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.32\\microsoft.aspnetcore.app.ref.8.0.32.nupkg.sha512"
+    "C:\\Users\\mursa\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\mursa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.34\\microsoft.windowsdesktop.app.ref.8.0.34.nupkg.sha512",
+    "C:\\Users\\mursa\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.34\\microsoft.netcore.app.ref.8.0.34.nupkg.sha512",
+    "C:\\Users\\mursa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.34\\microsoft.aspnetcore.app.ref.8.0.34.nupkg.sha512"
   ],
   "logs": []
 }
