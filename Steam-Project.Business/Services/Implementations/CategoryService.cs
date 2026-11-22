@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Steam_Project.Business.DTOs.Category;
+using Steam_Project.Business.Exceptions.CategoryExceptions;
 using Steam_Project.Business.Exceptions.Common;
 using Steam_Project.Business.Services.Interfaces;
 using Steam_Project.DAL.Repositories.Interfaces;
@@ -30,7 +31,8 @@ namespace Steam_Project.Business.Services.Implementations
             }
 
             GetCategoryDto dto = _mapper.Map<GetCategoryDto>(_rep.GetById(id));
-            return dto;
+
+            return dto != null ? dto : throw new CategoryNullException();
         }
 
     }

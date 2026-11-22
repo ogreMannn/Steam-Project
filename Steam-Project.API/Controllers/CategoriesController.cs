@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Steam_Project.Business.Exceptions.CategoryExceptions;
 using Steam_Project.Business.Services.Interfaces;
 
 namespace Steam_Project.API.Controllers
@@ -23,6 +24,10 @@ namespace Steam_Project.API.Controllers
                 return Ok(categoryService.GetById(id));
             }
 
+            catch(CategoryNullException ex)
+            {
+                return NotFound(ex.Message);
+            }
             catch(Exception ex)
             {
                 return BadRequest(ex.Message);
