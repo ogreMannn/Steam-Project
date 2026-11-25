@@ -45,7 +45,11 @@ namespace Steam_Project.Business.Services.Implementations
 
             return dtos; 
         }
-       
+
+        public Task<GetCategoryDto> Create(CreateCategoryDto categoryDto)
+        {
+            throw new NotImplementedException();
+        }
 
     }
 }

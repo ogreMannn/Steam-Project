@@ -53,6 +53,11 @@ namespace Steam_Project.DAL.Repositories.Implementations
         {
             return await Table.AsNoTracking().FirstOrDefaultAsync(x => x.Id == id);
         }
+
+        public async Task<bool> IsExist(Expression<Func<TEntity, bool>> predicate)
+        {
+            return await Table.AnyAsync(predicate);
+        }
    
     }
 }
