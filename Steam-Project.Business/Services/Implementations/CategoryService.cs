@@ -7,6 +7,7 @@ using Steam_Project.DAL.Repositories.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -34,6 +35,18 @@ namespace Steam_Project.Business.Services.Implementations
 
             return dto != null ? dto : throw new CategoryNullException();
         }
+
+        public List<GetCategoryDto> GetAll()
+        {
+            var datas = _rep.GetAll();
+
+            var dtos = datas.
+                Select(item => _mapper.Map<GetCategoryDto>(item)).
+                ToList();
+
+            return dtos; 
+        }
+       
 
     }
 }

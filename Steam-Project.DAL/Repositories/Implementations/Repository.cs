@@ -5,6 +5,7 @@ using Steam_Project.DAL.Repositories.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -21,14 +22,16 @@ namespace Steam_Project.DAL.Repositories.Implementations
 
         public DbSet<TEntity> Table => _context.Set<TEntity>();
 
+    
+
         public IQueryable<TEntity> GetAll()
         {
             return Table;
         }
 
-        public TEntity GetById(int id)
+        public async Task<TEntity> GetById(int id)
         {
-            return Table.FirstOrDefault(x => x.Id == id);
+            return await Table.FirstOrDefaultAsync(x => x.Id == id);
         }
     }
 }
