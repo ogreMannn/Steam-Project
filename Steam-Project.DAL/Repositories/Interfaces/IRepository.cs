@@ -16,6 +16,8 @@ namespace Steam_Project.DAL.Repositories.Interfaces
         public IQueryable<TEntity> GetAll();
         public Task<TEntity> Create(TEntity entity);
         public void Delete(TEntity entity);
+        public void Update(TEntity entity);
+        public Task<int> SaveChangesAsync();
 
     }
 }

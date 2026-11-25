@@ -29,10 +29,20 @@ namespace Steam_Project.DAL.Repositories.Implementations
             return entity;
         }
         public void Delete(TEntity entity)
+
         {
             Table.Remove(entity);
         }
 
+        public void Update(TEntity entity)
+        {
+            Table.Update(entity);
+        }
+
+        public async Task<int> SaveChangesAsync()
+        {
+            return await _context.SaveChangesAsync();
+        }
 
         public IQueryable<TEntity> GetAll()
         {
@@ -41,10 +51,8 @@ namespace Steam_Project.DAL.Repositories.Implementations
 
         public async Task<TEntity> GetById(int id)
         {
-            return await Table.FirstOrDefaultAsync(x => x.Id == id);
+            return await Table.AsNoTracking().FirstOrDefaultAsync(x => x.Id == id);
         }
-
-
-         
+   
     }
 }
