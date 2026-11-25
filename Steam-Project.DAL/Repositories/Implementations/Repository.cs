@@ -22,7 +22,12 @@ namespace Steam_Project.DAL.Repositories.Implementations
 
         public DbSet<TEntity> Table => _context.Set<TEntity>();
 
-    
+        public async Task<TEntity> Create(TEntity entity)
+        {
+            await Table.AddAsync(entity);
+            return entity;
+        }
+
 
         public IQueryable<TEntity> GetAll()
         {

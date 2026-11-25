@@ -14,6 +14,7 @@ namespace Steam_Project.DAL.Repositories.Interfaces
         public DbSet<TEntity> Table { get; }
         public Task<TEntity> GetById(int id);
         public IQueryable<TEntity> GetAll();
+        public Task<TEntity> Create(TEntity entity);
         
     }
 }
