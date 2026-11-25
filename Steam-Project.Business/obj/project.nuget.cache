@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xO02J90LG6Q=",
+  "dgSpecHash": "kBae37fK2m0=",
   "success": true,
   "projectFilePath": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Business\\Steam-Project.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mursa\\.nuget\\packages\\automapper\\17.0.0\\automapper.17.0.0.nupkg.sha512",
+    "C:\\Users\\mursa\\.nuget\\packages\\fluentvalidation\\12.2.0\\fluentvalidation.12.2.0.nupkg.sha512",
+    "C:\\Users\\mursa\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.1\\fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
+    "C:\\Users\\mursa\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.2.0\\fluentvalidation.dependencyinjectionextensions.12.2.0.nupkg.sha512",
     "C:\\Users\\mursa\\.nuget\\packages\\microsoft.bcl.hashcode\\6.0.0\\microsoft.bcl.hashcode.6.0.0.nupkg.sha512",
     "C:\\Users\\mursa\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.32\\microsoft.entityframeworkcore.8.0.32.nupkg.sha512",
     "C:\\Users\\mursa\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.32\\microsoft.entityframeworkcore.abstractions.8.0.32.nupkg.sha512",

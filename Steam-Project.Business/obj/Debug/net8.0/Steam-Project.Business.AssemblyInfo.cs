@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Steam-Project.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b64eda1321600271657bc63737e61fc6c59426a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17be4549a948e0bfc6fb4a77d9ed680bb5ff5c18")]
 [assembly: System.Reflection.AssemblyProductAttribute("Steam-Project.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Steam-Project.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
