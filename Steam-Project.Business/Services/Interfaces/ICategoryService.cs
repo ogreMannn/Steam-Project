@@ -10,6 +10,6 @@ namespace Steam_Project.Business.Services.Interfaces
     public interface ICategoryService
     {
 
-        GetCategoryDto GetById(int id);
+        Task<GetCategoryDto> GetById(int id);
     }
 }

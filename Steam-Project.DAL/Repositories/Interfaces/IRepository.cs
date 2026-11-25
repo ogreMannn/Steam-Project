@@ -18,6 +18,7 @@ namespace Steam_Project.DAL.Repositories.Interfaces
         public void Delete(TEntity entity);
         public void Update(TEntity entity);
         public Task<int> SaveChangesAsync();
+        public Task<bool> 
 
     }
 }

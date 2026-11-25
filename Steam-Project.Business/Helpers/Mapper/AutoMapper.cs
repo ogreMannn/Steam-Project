@@ -14,6 +14,8 @@ namespace Steam_Project.Business.Helpers.Mapper
         public AutoMapper()
         {
             CreateMap<GetCategoryDto, Category>().ReverseMap();
+            CreateMap<GetAllCategoriesDTo, Category>().ReverseMap();
+            CreateMap<CreateCategoryDto, Category>().ReverseMap();
         }
     }
 }

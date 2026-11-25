@@ -20,7 +20,9 @@ namespace Steam_Project.Business.DTOs.Category
             RuleFor(x => x.Name)
                 .NotEmpty()
                 .NotNull()
-                .WithMessage("Input name correctly");
+                .WithMessage("Input name correctly")
+                .MaximumLength(20)
+                .WithMessage("Maximum length is 20");
 
         }
     }

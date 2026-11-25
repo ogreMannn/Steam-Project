@@ -24,15 +24,14 @@ namespace Steam_Project.Business.Services.Implementations
             _mapper = mapper;
         }
 
-        public GetCategoryDto GetById(int id)
+        public async Task<GetCategoryDto> GetById(int id)
         {
             if (id <= 0)
             {
                 throw new NegativeIdException();
             }
 
-            GetCategoryDto dto = _mapper.Map<GetCategoryDto>(_rep.GetById(id));
-
+            GetCategoryDto dto = _mapper.Map<GetCategoryDto>(await _rep.GetById(id));
             return dto != null ? dto : throw new CategoryNullException();
         }
 
