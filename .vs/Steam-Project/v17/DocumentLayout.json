@@ -36,9 +36,10 @@
               "RelativeDocumentMoniker": "Steam-Project.Business\\Services\\Implementations\\CategoryService.cs",
               "ToolTip": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.Business\\Services\\Implementations\\CategoryService.cs",
               "RelativeToolTip": "Steam-Project.Business\\Services\\Implementations\\CategoryService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwC4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-25T14:00:44.586Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -49,7 +50,7 @@
               "RelativeDocumentMoniker": "Steam-Project.DAL\\Repositories\\Implementations\\Repository.cs",
               "ToolTip": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Repositories\\Implementations\\Repository.cs",
               "RelativeToolTip": "Steam-Project.DAL\\Repositories\\Implementations\\Repository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-25T13:21:11.051Z",
               "EditorCaption": ""
@@ -62,7 +63,7 @@
               "RelativeDocumentMoniker": "Steam-Project.DAL\\Repositories\\Interfaces\\IRepository.cs",
               "ToolTip": "C:\\Users\\mursa\\source\\repos\\Steam-Project\\Steam-Project.DAL\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeToolTip": "Steam-Project.DAL\\Repositories\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-25T13:16:57.006Z",
               "EditorCaption": ""
@@ -77,8 +78,7 @@
               "RelativeToolTip": "Steam-Project.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-22T11:15:19.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-22T11:15:19.919Z"
             }
           ]
         }

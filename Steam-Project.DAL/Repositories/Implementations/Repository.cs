@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Conventions;
 using Steam_Project.Core.Entities.Common;
 using Steam_Project.DAL.Context;
 using Steam_Project.DAL.Repositories.Interfaces;
@@ -27,6 +28,10 @@ namespace Steam_Project.DAL.Repositories.Implementations
             await Table.AddAsync(entity);
             return entity;
         }
+        public void Delete(TEntity entity)
+        {
+            Table.Remove(entity);
+        }
 
 
         public IQueryable<TEntity> GetAll()
@@ -38,5 +43,8 @@ namespace Steam_Project.DAL.Repositories.Implementations
         {
             return await Table.FirstOrDefaultAsync(x => x.Id == id);
         }
+
+
+         
     }
 }
