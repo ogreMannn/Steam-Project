@@ -33,5 +33,22 @@ namespace Steam_Project.API.Controllers
                 return BadRequest(ex.Message);
             }
         }
+
+        public IActionResult GetAll()
+        {
+            try
+            {
+                return Ok(categoryService.GetAll());
+            }
+
+            catch(Exception ex)
+            {
+                return NotFound(ex.Message);
+            }
+
+            
+        }
+
+
     }
 }

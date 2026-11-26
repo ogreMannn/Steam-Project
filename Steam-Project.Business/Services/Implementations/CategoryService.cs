@@ -3,6 +3,7 @@ using Steam_Project.Business.DTOs.Category;
 using Steam_Project.Business.Exceptions.CategoryExceptions;
 using Steam_Project.Business.Exceptions.Common;
 using Steam_Project.Business.Services.Interfaces;
+using Steam_Project.Core.Entities;
 using Steam_Project.DAL.Repositories.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -24,7 +25,7 @@ namespace Steam_Project.Business.Services.Implementations
             _mapper = mapper;
         }
 
-     
+        
 
         public async Task<GetCategoryDto> GetById(int id)
         {
@@ -48,9 +49,17 @@ namespace Steam_Project.Business.Services.Implementations
             return dtos; 
         }
 
-        public Task<GetCategoryDto> Create(CreateCategoryDto categoryDto)
+        public async Task<GetCategoryDto> Create(CreateCategoryDto categoryDto)
         {
-            throw new NotImplementedException();
+            if(await _rep.IsExist(c => c.Name == categoryDto.Name))
+            {
+                throw new CategoryNameExistException();
+            }
+
+            var category = _mapper.Map<Category>(categoryDto);
+            var newCategory = await _rep.Create(category);
+            await _rep.SaveChangesAsync();
+            return _mapper.Map<GetCategoryDto>(await _rep.Create(category));
         }
 
     }
