@@ -11,6 +11,6 @@ namespace Steam_Project.Business.Services.Interfaces
     {
         Task<GetCategoryDto> Create(CreateCategoryDto categoryDto);
         Task<GetCategoryDto> GetById(int id);
-        List<GetAllCategoriesDTo> GetAll();
+        List<GetCategoryDto> GetAll();
     }
 }

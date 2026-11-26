@@ -24,6 +24,8 @@ namespace Steam_Project.Business.Services.Implementations
             _mapper = mapper;
         }
 
+     
+
         public async Task<GetCategoryDto> GetById(int id)
         {
             if (id <= 0)
