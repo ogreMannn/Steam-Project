@@ -126,3 +126,6 @@ C:\Users\mursa\source\repos\Steam-Project\Steam-Project.API\obj\Debug\net8.0\Ste
 C:\Users\mursa\source\repos\Steam-Project\Steam-Project.API\obj\Debug\net8.0\Steam-Project.API.genruntimeconfig.cache
 C:\Users\mursa\source\repos\Steam-Project\Steam-Project.API\obj\Debug\net8.0\ref\Steam-Project.API.dll
 C:\Users\mursa\source\repos\Steam-Project\Steam-Project.API\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\mursa\source\repos\Steam-Project\Steam-Project.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\mursa\source\repos\Steam-Project\Steam-Project.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\mursa\source\repos\Steam-Project\Steam-Project.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

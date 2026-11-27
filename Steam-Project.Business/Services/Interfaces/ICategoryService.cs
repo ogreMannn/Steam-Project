@@ -9,7 +9,7 @@ namespace Steam_Project.Business.Services.Interfaces
 {
     public interface ICategoryService
     {
-        Task<GetCategoryDto> Create(CreateCategoryDto categoryDto);
+        Task<GetCategoryDto> CreateAsync(CreateCategoryDto categoryDto);
         Task<GetCategoryDto> GetById(int id);
         List<GetCategoryDto> GetAll();
     }

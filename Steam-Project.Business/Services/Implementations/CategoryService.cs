@@ -49,7 +49,7 @@ namespace Steam_Project.Business.Services.Implementations
             return dtos; 
         }
 
-        public async Task<GetCategoryDto> Create(CreateCategoryDto categoryDto)
+        public async Task<GetCategoryDto> CreateAsync(CreateCategoryDto categoryDto)
         {
             if(await _rep.IsExist(c => c.Name == categoryDto.Name))
             {
